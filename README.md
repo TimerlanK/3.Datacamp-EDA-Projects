@@ -8,7 +8,11 @@ https://www.datacamp.com
 # analyzing_TV_DATA
 You will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows. </br>
 In the unguided variant of this project, you'll develop an informative plot that helps to visualize the viewership and quality of The Office throughout its nine seasons.
-### Skills - Data manipulation, Data Visualization, Importing and Cleaning Data, Case studies
+### Skills 
+* Data manipulation 
+* Data Visualization
+* Importing and Cleaning Data
+* Case studies
 
 
 # A-Visual-History-of-Nobel-Prize-Winners
