@@ -46,7 +46,11 @@ The data files are as follows:
 * apps.csv: contains all the details of the apps on Google Play. These are the features that describe an app.
 * user_reviews.csv: contains 100 reviews for each app, most helpful first. 
 
-### Skills - Data manipulation, Data Visualization, Importing and Cleaning Data, Probability and Statistics
+### Skills 
+* Data manipulation
+* Data Visualization
+* Importing and Cleaning Data
+* Probability and Statistics
 
 # Dr.-Semmelweis-and-the-Discovery-of-Handwashing
  
